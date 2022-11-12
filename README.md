@@ -1,2 +1,0 @@
-# okwu
-the okwu language
