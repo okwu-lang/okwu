@@ -1,0 +1,20 @@
+{
+  "name": "okwu",
+  "version": "0.1.0",
+  "description": "javascript but not",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lillupad/okwu.git"
+  },
+  "author": "lillupad",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/lillupad/okwu/issues"
+  },
+  "homepage": "https://github.com/lillupad/okwu#readme"
+}
